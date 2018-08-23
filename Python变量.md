@@ -7,6 +7,7 @@
 print "Hello Word!" #print hello world
 
 #变量和赋值
+
 a = 1
 b = 0.5
 c = "123"
@@ -33,6 +34,8 @@ print type(a)
 print type(b)
 
 #python 没有数字上限
+
+
 
 #复数
 a = 10 + 5j
